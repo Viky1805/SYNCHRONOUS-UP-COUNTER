@@ -1,4 +1,4 @@
-### SYNCHRONOUS-UP-COUNTER
+### Implementation of Synchronous counters using Verilog HDL 
 
 **AIM:**
 
